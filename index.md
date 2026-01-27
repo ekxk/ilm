@@ -1,9 +1,14 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-A collection of notes on ʿilm (knowledge) from Islamic sources and personal learning.
+بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
+
+In the name of God, the Most Gracious, the Most Merciful.
+
+This is a collection of notes on ʿilm (knowledge) from Islamic sources and personal learning.
 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
