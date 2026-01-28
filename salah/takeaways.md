@@ -1,11 +1,11 @@
 ---
-title: Khutbah Takeaways
+title: Takeaways
 layout: default
 parent: Salah
 nav_order: 1
 ---
 
-## [How to Make The Most of your Salah by Dr. Omar Suleiman](https://yaqeeninstitute.org/omar-suleiman/how-to-make-the-most-of-your-salah-khutbah)[^1]
+## [Khutbah: How to Make The Most of your Salah by Dr. Omar Suleiman](https://yaqeeninstitute.org/omar-suleiman/how-to-make-the-most-of-your-salah-khutbah)[^1]
 
 - Salah: gain closeness to Allah swt. Softening the heart. 
 - [Al-'Ankabut: 45](https://quran.com/29?startingVerse=45): "Recite that which has been revealed to you of the book and **establish the prayer**. Verily the prayer forbids. It stops you. It forbids you from falling into al-fahsha'i wal-munkar."
